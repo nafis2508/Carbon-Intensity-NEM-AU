@@ -1,10 +1,9 @@
-# Carbon-Intensity-NEM-AU
-
 # Business Analytics Project – Intra-Daily Carbon Emission Analysis
 
 🚀 **Runner-up – Business Analytics Project Competition (Macquarie University)**  
 👩‍⚖️ Judged by Snowy Hydro representatives: Carley Beever, Corrine Li, Linda Carlanita
 
+---
 
 ## Project Overview
 
@@ -16,6 +15,13 @@ Our team advanced to the **final round** and achieved **runner-up overall** base
 
 Our findings aimed to guide both household and business users on how to reduce their carbon footprint through smarter electricity consumption patterns.
 
+---
+
+## 🎥 Watch the Presentation
+
+[👉 Watch our video presentation here](https://drive.google.com/file/d/1wSMOMRh4vxKqcSD58TXr_cW-mGnShLkw/view?usp=sharing)
+
+---
 
 ## Our Journey to the Finals
 
@@ -27,6 +33,7 @@ Our findings aimed to guide both household and business users on how to reduce t
   - Created supply curves highlighting how bidding behaviour varies by time of day.
 - 🏆 **Recognition:** Our team was selected as a finalist and ultimately earned the **runner-up** position in the unit competition, judged by Carley Beever, Corrine Li, and Linda Carlanita from Snowy Hydro.
 
+---
 
 ## Repository Contents
 
@@ -39,6 +46,7 @@ Our findings aimed to guide both household and business users on how to reduce t
 - `reports/`
   - Summaries of insights used in our final presentation and report.
 
+---
 
 ## Key Results
 
@@ -48,6 +56,7 @@ Our findings aimed to guide both household and business users on how to reduce t
 
 ✅ Developed recommendations for demand management and renewable deployment to reduce carbon intensity.
 
+---
 
 ## Why This Matters
 
@@ -59,6 +68,8 @@ Understanding intra-daily carbon emission patterns is crucial for:
 
 Our project provides actionable insights for businesses and households aiming to align electricity usage with lower-emission periods.
 
+---
+
 ## Acknowledgements
 
 Big thanks to:
@@ -67,11 +78,10 @@ Big thanks to:
 - My fantastic project team for collaboration and shared learning.
 - Macquarie University for providing this valuable opportunity.
 
+---
 
 ## Contact
 
 Feel free to reach out or connect on LinkedIn!
 
 [Muntasir Md Nafis](https://github.com/nafis2508)
-
-
